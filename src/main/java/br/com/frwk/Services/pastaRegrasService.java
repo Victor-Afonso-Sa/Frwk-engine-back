@@ -10,14 +10,15 @@ import br.com.frwk.JpaRepository.RepositoryPastaRegras;
 import br.com.frwk.entity.PastaRegras;
 
 @Service
-public class pastaRegrasService {
+public class PastaRegrasService {
 	@Autowired
 	RepositoryPastaRegras repository;
 
 	public List<PastaRegras> getPastaRegras() {
 		return repository.findAll();
 	}
-	public Optional<PastaRegras> getPastaRegrasById(String id){
+
+	public Optional<PastaRegras> getPastaRegrasById(String id) {
 		return repository.findById(id);
 
 	}
@@ -27,6 +28,6 @@ public class pastaRegrasService {
 	}
 
 	public void deletePastaRegras(String id) {
-		 repository.deleteById(id);
+		repository.deleteById(id);
 	}
 }

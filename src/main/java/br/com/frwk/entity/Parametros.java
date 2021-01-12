@@ -9,17 +9,13 @@ import lombok.Data;
 
 @Data
 @Entity
-@Table(name = "pastaregras")
-public class PastaRegras {
-
+@Table(name = "parametros")
+public class Parametros {
 	@Id
 	@Column(name = "idpasta")
 	private String idpasta;
-
 	@Column(name = "nome")
 	private String nome;
-	@Column(name = "regras")
-	private String regras;
-
-//	
+	@Column(name = "parametros")
+	private String parametros;
 }

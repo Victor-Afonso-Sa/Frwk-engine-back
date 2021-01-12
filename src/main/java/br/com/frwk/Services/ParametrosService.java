@@ -6,28 +6,28 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import br.com.frwk.JpaRepository.RepositoryModelos;
-import br.com.frwk.entity.PastasModelos;
+import br.com.frwk.JpaRepository.RepositoryParametros;
+import br.com.frwk.entity.Parametros;
 
 @Service
-public class ModeloService {
+public class ParametrosService {
 
 	@Autowired
-	RepositoryModelos repository;
+	RepositoryParametros repository;
 
-	public List<PastasModelos> getModelo() {
+	public List<Parametros> getParams() {
 		return repository.findAll();
 	}
 
-	public Optional<PastasModelos> getModeloById(String id) {
+	public Optional<Parametros> getParamsById(String id) {
 		return repository.findById(id);
 	}
 
-	public PastasModelos saveModelo(PastasModelos objeto) {
+	public Parametros saveParams(Parametros objeto) {
 		return repository.saveAndFlush(objeto);
 	}
 
-	public void deleteModelo(String id) {
+	public void deleteParams(String id) {
 		repository.deleteById(id);
 	}
 }

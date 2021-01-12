@@ -15,16 +15,19 @@ import br.com.frwk.motorregra.acao.impl.Enquanto;
 import br.com.frwk.motorregra.acao.impl.ExecutarRegra;
 import br.com.frwk.motorregra.acao.impl.If;
 import br.com.frwk.motorregra.acao.impl.Iteracao;
+import br.com.frwk.motorregra.acao.impl.ManipularArray;
 import br.com.frwk.motorregra.acao.impl.Regra;
 import br.com.frwk.motorregra.acao.impl.Retorno;
 
 public class ConstrutorRegra {
 
 	private RegraService regraSevice;
+	private String idRegra;
 
-	public ConstrutorRegra(RegraService regraSevice) {
+	public ConstrutorRegra(RegraService regraSevice, String idRegra) {
 		super();
 		this.regraSevice = regraSevice;
+		this.idRegra = idRegra;
 	}
 
 	public Acao criarAcao(JsonObject acao) {
@@ -35,13 +38,15 @@ public class ConstrutorRegra {
 		case "iteracao":
 			return criarIteracao(acao);
 		case "atribuicao":
-			return criarAtribuir(acao.get("acao").getAsJsonObject());
+			return criarAtribuir(acao);
+		case "manipularArray":
+			return criarManipularArray(acao);
 		case "retorno":
 			return criarRetorno();
 		case "break":
 			return criarBreak();
 		case "executarRegra":
-			return criarExecutarRegra(acao.get("acao").getAsJsonObject());
+			return criarExecutarRegra(acao);
 		case "regra":
 			return criarRegra(acao);
 		case "enquanto":
@@ -59,18 +64,19 @@ public class ConstrutorRegra {
 	}
 
 	public Atribuir criarAtribuir(JsonObject acao) {
-		String variavel = acao.getAsJsonObject("variavel").get("id").getAsString();
-		String expressao = acao.get("valor").getAsString();
+		String variavel = acao.get("acao").getAsJsonObject().getAsJsonObject("variavel").get("id").getAsString();
+		String expressao = acao.get("acao").getAsJsonObject().get("valor").getAsString();
 		return new Atribuir(variavel, expressao);
 	}
 
 	public If criarIf(JsonObject acao) {
+		JsonArray a = new JsonArray();
 		JsonArray itens = acao.get("itens").getAsJsonArray();
 		List<Condicao> cond = new ArrayList<Condicao>();
 		for (Integer i = 0; i < itens.size(); i++) {
 			cond.add(criarCondicao(itens.get(i).getAsJsonObject()));
 		}
-		return new If(cond, acao.get("nome").getAsString());
+		return new If(cond, acao.get("nome").getAsString(), acao.get("variaveisescopo").getAsJsonArray());
 	}
 
 	public Condicao criarCondicao(JsonObject acao) {
@@ -82,8 +88,8 @@ public class ConstrutorRegra {
 		String expressao = acao.get("acao").getAsJsonObject().has("expressao")
 				? acao.get("acao").getAsJsonObject().get("expressao").getAsString()
 				: null;
-		return new Condicao(acoes, acao.get("variaveisLocal").getAsJsonArray(), acao.get("nome").getAsString(),
-				acao.get("tipo").getAsString(), expressao);
+		return new Condicao(acoes, acao.get("variaveis").getAsJsonArray(), acao.get("variaveisLocal").getAsJsonArray(),
+				acao.get("nome").getAsString(), acao.get("tipo").getAsString(), expressao);
 	}
 
 	public Iteracao criarIteracao(JsonObject acao) {
@@ -92,9 +98,11 @@ public class ConstrutorRegra {
 		for (Integer i = 0; i < itens.size(); i++) {
 			acoes.add(criarAcao(itens.get(i).getAsJsonObject()));
 		}
-		return new Iteracao(acoes, acao.get("variaveisLocal").getAsJsonArray(), acao.get("nome").getAsString(),
+		return new Iteracao(acoes, acao.get("variaveis").getAsJsonArray(), acao.get("variaveisLocal").getAsJsonArray(),
+				acao.get("nome").getAsString(),
 				acao.get("acao").getAsJsonObject().get("array").getAsJsonObject().get("id").getAsString(),
-				acao.get("acao").getAsJsonObject().get("iterado").getAsString());
+				acao.get("acao").getAsJsonObject().get("iterado").getAsString(),
+				acao.get("acao").getAsJsonObject().get("indice").getAsString());
 
 	}
 
@@ -108,8 +116,10 @@ public class ConstrutorRegra {
 	}
 
 	public ExecutarRegra criarExecutarRegra(JsonObject acao) {
-		ExecutarRegra regra = new ExecutarRegra(acao.get("regra").getAsJsonObject().get("idregra").getAsString(),
-				acao.get("entrada").getAsString(), acao.get("retorno").getAsString());
+		ExecutarRegra regra = new ExecutarRegra(
+				acao.get("acao").getAsJsonObject().get("regra").getAsJsonObject().get("idregra").getAsString(),
+				acao.get("acao").getAsJsonObject().get("entrada").getAsString(),
+				acao.get("acao").getAsJsonObject().get("retorno").getAsString(), this.idRegra);
 		regra.setRegraService(regraSevice);
 		return regra;
 	}
@@ -120,8 +130,14 @@ public class ConstrutorRegra {
 		for (Integer i = 0; i < itens.size(); i++) {
 			acoes.add(criarAcao(itens.get(i).getAsJsonObject()));
 		}
-		return new Enquanto(acoes, acao.get("variaveis").getAsJsonArray(), acao.get("nome").getAsString(),
-				acao.get("acao").getAsJsonObject().get("expressao").getAsString());
+		return new Enquanto(acoes, acao.get("variaveis").getAsJsonArray(), acao.get("variaveisLocal").getAsJsonArray(),
+				acao.get("nome").getAsString(), acao.get("acao").getAsJsonObject().get("expressao").getAsString());
+	}
 
+	public ManipularArray criarManipularArray(JsonObject acao) {
+		return new ManipularArray(acao.get("variaveis").getAsJsonArray(),
+				acao.get("acao").getAsJsonObject().get("expressao").getAsString(),
+				acao.get("acao").getAsJsonObject().get("array").getAsJsonObject().get("id").getAsString(),
+				acao.get("acao").getAsJsonObject().get("metodo").getAsString());
 	}
 }

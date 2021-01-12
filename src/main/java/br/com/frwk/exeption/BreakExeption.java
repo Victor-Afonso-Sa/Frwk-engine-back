@@ -1,6 +1,6 @@
 package br.com.frwk.exeption;
 
-public class BreakExeption extends Exception{
+public class BreakExeption extends Exception {
 
 	/**
 	 * 

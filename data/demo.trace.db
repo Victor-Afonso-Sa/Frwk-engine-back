@@ -22279,3 +22279,1818 @@ CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NU
 2020-12-18 15:10:02 jdbc[3]: exception
 org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
 CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-21 08:47:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-21 13:20:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-21 13:22:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-21 13:25:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-21 13:30:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-21 13:32:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-21 13:35:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-21 13:38:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-21 13:41:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-21 13:43:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-21 13:46:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-21 13:47:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-21 13:54:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-21 13:56:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-21 14:19:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-21 14:21:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-21 14:27:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-21 14:30:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-21 14:32:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-22 09:36:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-23 09:44:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-24 10:21:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-24 14:27:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros text NOT NULL ) [42101-200]
+2020-12-24 14:34:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros text NOT NULL ) [42101-200]
+2020-12-24 14:35:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "REGRAS" already exists; SQL statement:
+CREATE TABLE regras ( idregra VARCHAR(255) PRIMARY KEY, schemaregras TEXT NOT NULL ) [42101-200]
+2020-12-24 14:36:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Column "PARAMETROS0_.IDREGRA" not found; SQL statement:
+select parametros0_.idregra as idregra1_0_, parametros0_.nome as nome2_0_, parametros0_.parametros as parametr3_0_ from parametros parametros0_ [42122-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:453)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.expression.ExpressionColumn.getColumnException(ExpressionColumn.java:163)
+	at org.h2.expression.ExpressionColumn.optimize(ExpressionColumn.java:145)
+	at org.h2.expression.Alias.optimize(Alias.java:52)
+	at org.h2.command.dml.Select.prepare(Select.java:1206)
+	at org.h2.command.Parser.prepareCommand(Parser.java:744)
+	at org.h2.engine.Session.prepareLocal(Session.java:657)
+	at org.h2.engine.Session.prepareCommand(Session.java:595)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1235)
+	at org.h2.jdbc.JdbcPreparedStatement.<init>(JdbcPreparedStatement.java:76)
+	at org.h2.jdbc.JdbcConnection.prepareStatement(JdbcConnection.java:352)
+	at com.zaxxer.hikari.pool.ProxyConnection.prepareStatement(ProxyConnection.java:337)
+	at com.zaxxer.hikari.pool.HikariProxyConnection.prepareStatement(HikariProxyConnection.java)
+	at org.hibernate.engine.jdbc.internal.StatementPreparerImpl$5.doPrepare(StatementPreparerImpl.java:149)
+	at org.hibernate.engine.jdbc.internal.StatementPreparerImpl$StatementPreparationTemplate.prepareStatement(StatementPreparerImpl.java:176)
+	at org.hibernate.engine.jdbc.internal.StatementPreparerImpl.prepareQueryStatement(StatementPreparerImpl.java:151)
+	at org.hibernate.loader.Loader.prepareQueryStatement(Loader.java:2141)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2078)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2056)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:953)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:350)
+	at org.hibernate.loader.Loader.doList(Loader.java:2887)
+	at org.hibernate.loader.Loader.doList(Loader.java:2869)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2701)
+	at org.hibernate.loader.Loader.list(Loader.java:2696)
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:506)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:400)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:219)
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1415)
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1565)
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1533)
+	at org.hibernate.query.Query.getResultList(Query.java:165)
+	at org.hibernate.query.criteria.internal.compile.CriteriaQueryTypeQueryAdapter.getResultList(CriteriaQueryTypeQueryAdapter.java:76)
+	at org.springframework.data.jpa.repository.support.SimpleJpaRepository.findAll(SimpleJpaRepository.java:355)
+	at org.springframework.data.jpa.repository.support.SimpleJpaRepository.findAll(SimpleJpaRepository.java:78)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.data.repository.core.support.ImplementationInvocationMetadata.invoke(ImplementationInvocationMetadata.java:72)
+	at org.springframework.data.repository.core.support.RepositoryComposition$RepositoryFragments.invoke(RepositoryComposition.java:382)
+	at org.springframework.data.repository.core.support.RepositoryComposition.invoke(RepositoryComposition.java:205)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$ImplementationMethodExecutionInterceptor.invoke(RepositoryFactorySupport.java:549)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:155)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:130)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:80)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:367)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:118)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:178)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy114.findAll(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:205)
+	at com.sun.proxy.$Proxy79.findAll(Unknown Source)
+	at br.com.frwk.Services.ParametrosService.getParams(ParametrosService.java:20)
+	at br.com.frwk.RestEndpoints.ParametrosEndpoints.getPastaRegras(ParametrosEndpoints.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2020-12-24 14:37:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-24 14:50:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-24 16:05:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-29 08:59:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-29 15:54:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-30 10:46:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-30 15:12:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-30 15:13:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-30 15:45:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-30 15:54:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-30 16:31:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-30 16:33:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-30 16:34:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-30 16:38:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-30 16:44:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-30 16:46:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-30 16:49:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-30 17:18:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-30 17:21:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-30 17:24:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-31 08:53:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-31 10:31:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-31 10:36:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-31 10:37:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-31 10:40:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-31 10:41:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-31 11:03:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2020-12-31 11:04:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 12:54:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:09:43 database: flush
+org.h2.message.DbException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.get(DbException.java:194)
+	at org.h2.message.DbException.convert(DbException.java:347)
+	at org.h2.mvstore.db.MVTableEngine$1.uncaughtException(MVTableEngine.java:93)
+	at org.h2.mvstore.MVStore.handleException(MVStore.java:2877)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:481)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:402)
+	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:3579)
+	at org.h2.mvstore.db.MVTableEngine$Store.open(MVTableEngine.java:170)
+	at org.h2.mvstore.db.MVTableEngine.init(MVTableEngine.java:103)
+	at org.h2.engine.Database.getPageStore(Database.java:2659)
+	at org.h2.engine.Database.open(Database.java:675)
+	at org.h2.engine.Database.openDatabase(Database.java:307)
+	at org.h2.engine.Database.<init>(Database.java:301)
+	at org.h2.engine.Engine.openSession(Engine.java:74)
+	at org.h2.engine.Engine.openSession(Engine.java:192)
+	at org.h2.engine.Engine.createSessionAndValidate(Engine.java:171)
+	at org.h2.engine.Engine.createSession(Engine.java:166)
+	at org.h2.engine.Engine.createSession(Engine.java:29)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:340)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:173)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:152)
+	at org.h2.Driver.connect(Driver.java:69)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:68)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:152)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:286)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:243)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:176)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:118)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1224)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1255)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:391)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	... 52 more
+Caused by: java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]
+	at org.h2.mvstore.DataUtils.newIllegalStateException(DataUtils.java:950)
+	at org.h2.mvstore.FileStore.open(FileStore.java:172)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:381)
+	... 46 more
+2021-01-04 13:09:45 database: flush
+org.h2.message.DbException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.get(DbException.java:194)
+	at org.h2.message.DbException.convert(DbException.java:347)
+	at org.h2.mvstore.db.MVTableEngine$1.uncaughtException(MVTableEngine.java:93)
+	at org.h2.mvstore.MVStore.handleException(MVStore.java:2877)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:481)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:402)
+	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:3579)
+	at org.h2.mvstore.db.MVTableEngine$Store.open(MVTableEngine.java:170)
+	at org.h2.mvstore.db.MVTableEngine.init(MVTableEngine.java:103)
+	at org.h2.engine.Database.getPageStore(Database.java:2659)
+	at org.h2.engine.Database.open(Database.java:675)
+	at org.h2.engine.Database.openDatabase(Database.java:307)
+	at org.h2.engine.Database.<init>(Database.java:301)
+	at org.h2.engine.Engine.openSession(Engine.java:74)
+	at org.h2.engine.Engine.openSession(Engine.java:192)
+	at org.h2.engine.Engine.createSessionAndValidate(Engine.java:171)
+	at org.h2.engine.Engine.createSession(Engine.java:166)
+	at org.h2.engine.Engine.createSession(Engine.java:29)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:340)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:173)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:152)
+	at org.h2.Driver.connect(Driver.java:69)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection(DdlTransactionIsolatorNonJtaImpl.java:43)
+	at org.hibernate.tool.schema.internal.exec.ImprovedExtractionContextImpl.getJdbcConnection(ImprovedExtractionContextImpl.java:60)
+	at org.hibernate.tool.schema.extract.internal.SequenceInformationExtractorLegacyImpl.extractMetadata(SequenceInformationExtractorLegacyImpl.java:40)
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.initializeSequences(DatabaseInformationImpl.java:65)
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.<init>(DatabaseInformationImpl.java:59)
+	at org.hibernate.tool.schema.internal.Helper.buildDatabaseInformation(Helper.java:155)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:96)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:184)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:73)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:316)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:469)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1259)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:391)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	... 50 more
+Caused by: java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]
+	at org.h2.mvstore.DataUtils.newIllegalStateException(DataUtils.java:950)
+	at org.h2.mvstore.FileStore.open(FileStore.java:172)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:381)
+	... 44 more
+2021-01-04 13:09:47 database: flush
+org.h2.message.DbException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.get(DbException.java:194)
+	at org.h2.message.DbException.convert(DbException.java:347)
+	at org.h2.mvstore.db.MVTableEngine$1.uncaughtException(MVTableEngine.java:93)
+	at org.h2.mvstore.MVStore.handleException(MVStore.java:2877)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:481)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:402)
+	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:3579)
+	at org.h2.mvstore.db.MVTableEngine$Store.open(MVTableEngine.java:170)
+	at org.h2.mvstore.db.MVTableEngine.init(MVTableEngine.java:103)
+	at org.h2.engine.Database.getPageStore(Database.java:2659)
+	at org.h2.engine.Database.open(Database.java:675)
+	at org.h2.engine.Database.openDatabase(Database.java:307)
+	at org.h2.engine.Database.<init>(Database.java:301)
+	at org.h2.engine.Engine.openSession(Engine.java:74)
+	at org.h2.engine.Engine.openSession(Engine.java:192)
+	at org.h2.engine.Engine.createSessionAndValidate(Engine.java:171)
+	at org.h2.engine.Engine.createSession(Engine.java:166)
+	at org.h2.engine.Engine.createSession(Engine.java:29)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:340)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:173)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:152)
+	at org.h2.Driver.connect(Driver.java:69)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:68)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:152)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:286)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:243)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:176)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:118)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1224)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1255)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:391)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	... 52 more
+Caused by: java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]
+	at org.h2.mvstore.DataUtils.newIllegalStateException(DataUtils.java:950)
+	at org.h2.mvstore.FileStore.open(FileStore.java:172)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:381)
+	... 46 more
+2021-01-04 13:09:49 database: flush
+org.h2.message.DbException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.get(DbException.java:194)
+	at org.h2.message.DbException.convert(DbException.java:347)
+	at org.h2.mvstore.db.MVTableEngine$1.uncaughtException(MVTableEngine.java:93)
+	at org.h2.mvstore.MVStore.handleException(MVStore.java:2877)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:481)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:402)
+	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:3579)
+	at org.h2.mvstore.db.MVTableEngine$Store.open(MVTableEngine.java:170)
+	at org.h2.mvstore.db.MVTableEngine.init(MVTableEngine.java:103)
+	at org.h2.engine.Database.getPageStore(Database.java:2659)
+	at org.h2.engine.Database.open(Database.java:675)
+	at org.h2.engine.Database.openDatabase(Database.java:307)
+	at org.h2.engine.Database.<init>(Database.java:301)
+	at org.h2.engine.Engine.openSession(Engine.java:74)
+	at org.h2.engine.Engine.openSession(Engine.java:192)
+	at org.h2.engine.Engine.createSessionAndValidate(Engine.java:171)
+	at org.h2.engine.Engine.createSession(Engine.java:166)
+	at org.h2.engine.Engine.createSession(Engine.java:29)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:340)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:173)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:152)
+	at org.h2.Driver.connect(Driver.java:69)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection(DdlTransactionIsolatorNonJtaImpl.java:43)
+	at org.hibernate.tool.schema.internal.exec.ImprovedExtractionContextImpl.getJdbcConnection(ImprovedExtractionContextImpl.java:60)
+	at org.hibernate.tool.schema.extract.internal.SequenceInformationExtractorLegacyImpl.extractMetadata(SequenceInformationExtractorLegacyImpl.java:40)
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.initializeSequences(DatabaseInformationImpl.java:65)
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.<init>(DatabaseInformationImpl.java:59)
+	at org.hibernate.tool.schema.internal.Helper.buildDatabaseInformation(Helper.java:155)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:96)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:184)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:73)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:316)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:469)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1259)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:391)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	... 50 more
+Caused by: java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]
+	at org.h2.mvstore.DataUtils.newIllegalStateException(DataUtils.java:950)
+	at org.h2.mvstore.FileStore.open(FileStore.java:172)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:381)
+	... 44 more
+2021-01-04 13:11:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:13:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:14:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:15:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:17:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:20:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:20:59 database: flush
+org.h2.message.DbException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.get(DbException.java:194)
+	at org.h2.message.DbException.convert(DbException.java:347)
+	at org.h2.mvstore.db.MVTableEngine$1.uncaughtException(MVTableEngine.java:93)
+	at org.h2.mvstore.MVStore.handleException(MVStore.java:2877)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:481)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:402)
+	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:3579)
+	at org.h2.mvstore.db.MVTableEngine$Store.open(MVTableEngine.java:170)
+	at org.h2.mvstore.db.MVTableEngine.init(MVTableEngine.java:103)
+	at org.h2.engine.Database.getPageStore(Database.java:2659)
+	at org.h2.engine.Database.open(Database.java:675)
+	at org.h2.engine.Database.openDatabase(Database.java:307)
+	at org.h2.engine.Database.<init>(Database.java:301)
+	at org.h2.engine.Engine.openSession(Engine.java:74)
+	at org.h2.engine.Engine.openSession(Engine.java:192)
+	at org.h2.engine.Engine.createSessionAndValidate(Engine.java:171)
+	at org.h2.engine.Engine.createSession(Engine.java:166)
+	at org.h2.engine.Engine.createSession(Engine.java:29)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:340)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:173)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:152)
+	at org.h2.Driver.connect(Driver.java:69)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:68)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:152)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:286)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:243)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:176)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:118)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1224)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1255)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:391)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	... 52 more
+Caused by: java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]
+	at org.h2.mvstore.DataUtils.newIllegalStateException(DataUtils.java:950)
+	at org.h2.mvstore.FileStore.open(FileStore.java:172)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:381)
+	... 46 more
+2021-01-04 13:21:02 database: flush
+org.h2.message.DbException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.get(DbException.java:194)
+	at org.h2.message.DbException.convert(DbException.java:347)
+	at org.h2.mvstore.db.MVTableEngine$1.uncaughtException(MVTableEngine.java:93)
+	at org.h2.mvstore.MVStore.handleException(MVStore.java:2877)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:481)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:402)
+	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:3579)
+	at org.h2.mvstore.db.MVTableEngine$Store.open(MVTableEngine.java:170)
+	at org.h2.mvstore.db.MVTableEngine.init(MVTableEngine.java:103)
+	at org.h2.engine.Database.getPageStore(Database.java:2659)
+	at org.h2.engine.Database.open(Database.java:675)
+	at org.h2.engine.Database.openDatabase(Database.java:307)
+	at org.h2.engine.Database.<init>(Database.java:301)
+	at org.h2.engine.Engine.openSession(Engine.java:74)
+	at org.h2.engine.Engine.openSession(Engine.java:192)
+	at org.h2.engine.Engine.createSessionAndValidate(Engine.java:171)
+	at org.h2.engine.Engine.createSession(Engine.java:166)
+	at org.h2.engine.Engine.createSession(Engine.java:29)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:340)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:173)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:152)
+	at org.h2.Driver.connect(Driver.java:69)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection(DdlTransactionIsolatorNonJtaImpl.java:43)
+	at org.hibernate.tool.schema.internal.exec.ImprovedExtractionContextImpl.getJdbcConnection(ImprovedExtractionContextImpl.java:60)
+	at org.hibernate.tool.schema.extract.internal.SequenceInformationExtractorLegacyImpl.extractMetadata(SequenceInformationExtractorLegacyImpl.java:40)
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.initializeSequences(DatabaseInformationImpl.java:65)
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.<init>(DatabaseInformationImpl.java:59)
+	at org.hibernate.tool.schema.internal.Helper.buildDatabaseInformation(Helper.java:155)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:96)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:184)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:73)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:316)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:469)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1259)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:391)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	... 50 more
+Caused by: java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]
+	at org.h2.mvstore.DataUtils.newIllegalStateException(DataUtils.java:950)
+	at org.h2.mvstore.FileStore.open(FileStore.java:172)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:381)
+	... 44 more
+2021-01-04 13:21:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:23:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:25:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:27:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:27:35 database: flush
+org.h2.message.DbException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.get(DbException.java:194)
+	at org.h2.message.DbException.convert(DbException.java:347)
+	at org.h2.mvstore.db.MVTableEngine$1.uncaughtException(MVTableEngine.java:93)
+	at org.h2.mvstore.MVStore.handleException(MVStore.java:2877)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:481)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:402)
+	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:3579)
+	at org.h2.mvstore.db.MVTableEngine$Store.open(MVTableEngine.java:170)
+	at org.h2.mvstore.db.MVTableEngine.init(MVTableEngine.java:103)
+	at org.h2.engine.Database.getPageStore(Database.java:2659)
+	at org.h2.engine.Database.open(Database.java:675)
+	at org.h2.engine.Database.openDatabase(Database.java:307)
+	at org.h2.engine.Database.<init>(Database.java:301)
+	at org.h2.engine.Engine.openSession(Engine.java:74)
+	at org.h2.engine.Engine.openSession(Engine.java:192)
+	at org.h2.engine.Engine.createSessionAndValidate(Engine.java:171)
+	at org.h2.engine.Engine.createSession(Engine.java:166)
+	at org.h2.engine.Engine.createSession(Engine.java:29)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:340)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:173)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:152)
+	at org.h2.Driver.connect(Driver.java:69)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:68)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:152)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:286)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:243)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:176)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:118)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1224)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1255)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:391)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	... 52 more
+Caused by: java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]
+	at org.h2.mvstore.DataUtils.newIllegalStateException(DataUtils.java:950)
+	at org.h2.mvstore.FileStore.open(FileStore.java:172)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:381)
+	... 46 more
+2021-01-04 13:27:38 database: flush
+org.h2.message.DbException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.get(DbException.java:194)
+	at org.h2.message.DbException.convert(DbException.java:347)
+	at org.h2.mvstore.db.MVTableEngine$1.uncaughtException(MVTableEngine.java:93)
+	at org.h2.mvstore.MVStore.handleException(MVStore.java:2877)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:481)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:402)
+	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:3579)
+	at org.h2.mvstore.db.MVTableEngine$Store.open(MVTableEngine.java:170)
+	at org.h2.mvstore.db.MVTableEngine.init(MVTableEngine.java:103)
+	at org.h2.engine.Database.getPageStore(Database.java:2659)
+	at org.h2.engine.Database.open(Database.java:675)
+	at org.h2.engine.Database.openDatabase(Database.java:307)
+	at org.h2.engine.Database.<init>(Database.java:301)
+	at org.h2.engine.Engine.openSession(Engine.java:74)
+	at org.h2.engine.Engine.openSession(Engine.java:192)
+	at org.h2.engine.Engine.createSessionAndValidate(Engine.java:171)
+	at org.h2.engine.Engine.createSession(Engine.java:166)
+	at org.h2.engine.Engine.createSession(Engine.java:29)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:340)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:173)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:152)
+	at org.h2.Driver.connect(Driver.java:69)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection(DdlTransactionIsolatorNonJtaImpl.java:43)
+	at org.hibernate.tool.schema.internal.exec.ImprovedExtractionContextImpl.getJdbcConnection(ImprovedExtractionContextImpl.java:60)
+	at org.hibernate.tool.schema.extract.internal.SequenceInformationExtractorLegacyImpl.extractMetadata(SequenceInformationExtractorLegacyImpl.java:40)
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.initializeSequences(DatabaseInformationImpl.java:65)
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.<init>(DatabaseInformationImpl.java:59)
+	at org.hibernate.tool.schema.internal.Helper.buildDatabaseInformation(Helper.java:155)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:96)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:184)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:73)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:316)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:469)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1259)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:391)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	... 50 more
+Caused by: java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]
+	at org.h2.mvstore.DataUtils.newIllegalStateException(DataUtils.java:950)
+	at org.h2.mvstore.FileStore.open(FileStore.java:172)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:381)
+	... 44 more
+2021-01-04 13:28:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:29:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:32:50 database: flush
+org.h2.message.DbException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.get(DbException.java:194)
+	at org.h2.message.DbException.convert(DbException.java:347)
+	at org.h2.mvstore.db.MVTableEngine$1.uncaughtException(MVTableEngine.java:93)
+	at org.h2.mvstore.MVStore.handleException(MVStore.java:2877)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:481)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:402)
+	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:3579)
+	at org.h2.mvstore.db.MVTableEngine$Store.open(MVTableEngine.java:170)
+	at org.h2.mvstore.db.MVTableEngine.init(MVTableEngine.java:103)
+	at org.h2.engine.Database.getPageStore(Database.java:2659)
+	at org.h2.engine.Database.open(Database.java:675)
+	at org.h2.engine.Database.openDatabase(Database.java:307)
+	at org.h2.engine.Database.<init>(Database.java:301)
+	at org.h2.engine.Engine.openSession(Engine.java:74)
+	at org.h2.engine.Engine.openSession(Engine.java:192)
+	at org.h2.engine.Engine.createSessionAndValidate(Engine.java:171)
+	at org.h2.engine.Engine.createSession(Engine.java:166)
+	at org.h2.engine.Engine.createSession(Engine.java:29)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:340)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:173)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:152)
+	at org.h2.Driver.connect(Driver.java:69)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:68)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:152)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:286)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:243)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:176)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:118)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1224)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1255)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:391)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	... 52 more
+Caused by: java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]
+	at org.h2.mvstore.DataUtils.newIllegalStateException(DataUtils.java:950)
+	at org.h2.mvstore.FileStore.open(FileStore.java:172)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:381)
+	... 46 more
+2021-01-04 13:32:52 database: flush
+org.h2.message.DbException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.get(DbException.java:194)
+	at org.h2.message.DbException.convert(DbException.java:347)
+	at org.h2.mvstore.db.MVTableEngine$1.uncaughtException(MVTableEngine.java:93)
+	at org.h2.mvstore.MVStore.handleException(MVStore.java:2877)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:481)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:402)
+	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:3579)
+	at org.h2.mvstore.db.MVTableEngine$Store.open(MVTableEngine.java:170)
+	at org.h2.mvstore.db.MVTableEngine.init(MVTableEngine.java:103)
+	at org.h2.engine.Database.getPageStore(Database.java:2659)
+	at org.h2.engine.Database.open(Database.java:675)
+	at org.h2.engine.Database.openDatabase(Database.java:307)
+	at org.h2.engine.Database.<init>(Database.java:301)
+	at org.h2.engine.Engine.openSession(Engine.java:74)
+	at org.h2.engine.Engine.openSession(Engine.java:192)
+	at org.h2.engine.Engine.createSessionAndValidate(Engine.java:171)
+	at org.h2.engine.Engine.createSession(Engine.java:166)
+	at org.h2.engine.Engine.createSession(Engine.java:29)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:340)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:173)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:152)
+	at org.h2.Driver.connect(Driver.java:69)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection(DdlTransactionIsolatorNonJtaImpl.java:43)
+	at org.hibernate.tool.schema.internal.exec.ImprovedExtractionContextImpl.getJdbcConnection(ImprovedExtractionContextImpl.java:60)
+	at org.hibernate.tool.schema.extract.internal.SequenceInformationExtractorLegacyImpl.extractMetadata(SequenceInformationExtractorLegacyImpl.java:40)
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.initializeSequences(DatabaseInformationImpl.java:65)
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.<init>(DatabaseInformationImpl.java:59)
+	at org.hibernate.tool.schema.internal.Helper.buildDatabaseInformation(Helper.java:155)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:96)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:184)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:73)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:316)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:469)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1259)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:391)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	... 50 more
+Caused by: java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]
+	at org.h2.mvstore.DataUtils.newIllegalStateException(DataUtils.java:950)
+	at org.h2.mvstore.FileStore.open(FileStore.java:172)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:381)
+	... 44 more
+2021-01-04 13:33:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:35:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:37:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:40:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:40:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:40:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:41:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:43:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:44:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:44:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:49:54 database: flush
+org.h2.message.DbException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.get(DbException.java:194)
+	at org.h2.message.DbException.convert(DbException.java:347)
+	at org.h2.mvstore.db.MVTableEngine$1.uncaughtException(MVTableEngine.java:93)
+	at org.h2.mvstore.MVStore.handleException(MVStore.java:2877)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:481)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:402)
+	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:3579)
+	at org.h2.mvstore.db.MVTableEngine$Store.open(MVTableEngine.java:170)
+	at org.h2.mvstore.db.MVTableEngine.init(MVTableEngine.java:103)
+	at org.h2.engine.Database.getPageStore(Database.java:2659)
+	at org.h2.engine.Database.open(Database.java:675)
+	at org.h2.engine.Database.openDatabase(Database.java:307)
+	at org.h2.engine.Database.<init>(Database.java:301)
+	at org.h2.engine.Engine.openSession(Engine.java:74)
+	at org.h2.engine.Engine.openSession(Engine.java:192)
+	at org.h2.engine.Engine.createSessionAndValidate(Engine.java:171)
+	at org.h2.engine.Engine.createSession(Engine.java:166)
+	at org.h2.engine.Engine.createSession(Engine.java:29)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:340)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:173)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:152)
+	at org.h2.Driver.connect(Driver.java:69)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:68)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:152)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:286)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:243)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:176)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:118)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1224)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1255)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:391)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	... 52 more
+Caused by: java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]
+	at org.h2.mvstore.DataUtils.newIllegalStateException(DataUtils.java:950)
+	at org.h2.mvstore.FileStore.open(FileStore.java:172)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:381)
+	... 46 more
+2021-01-04 13:49:57 database: flush
+org.h2.message.DbException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.get(DbException.java:194)
+	at org.h2.message.DbException.convert(DbException.java:347)
+	at org.h2.mvstore.db.MVTableEngine$1.uncaughtException(MVTableEngine.java:93)
+	at org.h2.mvstore.MVStore.handleException(MVStore.java:2877)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:481)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:402)
+	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:3579)
+	at org.h2.mvstore.db.MVTableEngine$Store.open(MVTableEngine.java:170)
+	at org.h2.mvstore.db.MVTableEngine.init(MVTableEngine.java:103)
+	at org.h2.engine.Database.getPageStore(Database.java:2659)
+	at org.h2.engine.Database.open(Database.java:675)
+	at org.h2.engine.Database.openDatabase(Database.java:307)
+	at org.h2.engine.Database.<init>(Database.java:301)
+	at org.h2.engine.Engine.openSession(Engine.java:74)
+	at org.h2.engine.Engine.openSession(Engine.java:192)
+	at org.h2.engine.Engine.createSessionAndValidate(Engine.java:171)
+	at org.h2.engine.Engine.createSession(Engine.java:166)
+	at org.h2.engine.Engine.createSession(Engine.java:29)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:340)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:173)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:152)
+	at org.h2.Driver.connect(Driver.java:69)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection(DdlTransactionIsolatorNonJtaImpl.java:43)
+	at org.hibernate.tool.schema.internal.exec.ImprovedExtractionContextImpl.getJdbcConnection(ImprovedExtractionContextImpl.java:60)
+	at org.hibernate.tool.schema.extract.internal.SequenceInformationExtractorLegacyImpl.extractMetadata(SequenceInformationExtractorLegacyImpl.java:40)
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.initializeSequences(DatabaseInformationImpl.java:65)
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.<init>(DatabaseInformationImpl.java:59)
+	at org.hibernate.tool.schema.internal.Helper.buildDatabaseInformation(Helper.java:155)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:96)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:184)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:73)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:316)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:469)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1259)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:391)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]" [50000-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	... 50 more
+Caused by: java.lang.IllegalStateException: The file is locked: nio:C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/BackEngine/data/demo.mv.db [1.4.200/7]
+	at org.h2.mvstore.DataUtils.newIllegalStateException(DataUtils.java:950)
+	at org.h2.mvstore.FileStore.open(FileStore.java:172)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:381)
+	... 44 more
+2021-01-04 13:51:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:54:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 13:55:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 14:06:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 14:25:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 16:15:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-04 16:46:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-04 16:47:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-04 16:47:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-04 17:59:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-04 18:42:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-04 18:44:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-04 18:45:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-04 18:46:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-04 18:47:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 13:03:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 13:05:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 13:20:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 13:23:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 13:29:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 13:32:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 13:50:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 13:53:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 14:08:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 14:08:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 14:13:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 14:21:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 14:25:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 14:31:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 14:33:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 14:34:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 14:48:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 14:48:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 14:49:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 14:54:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 14:58:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 15:02:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 15:15:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 15:18:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 15:21:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 15:30:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 15:35:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 15:39:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 15:43:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 15:51:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 15:59:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 16:04:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 16:19:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 16:23:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 16:39:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 16:40:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 16:41:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 16:42:18 database: wrong user or password; user: "SA"
+org.h2.message.DbException: Wrong user name or password [28000-200]
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.message.DbException.get(DbException.java:170)
+	at org.h2.engine.Engine.openSession(Engine.java:131)
+	at org.h2.engine.Engine.openSession(Engine.java:192)
+	at org.h2.engine.Engine.createSessionAndValidate(Engine.java:171)
+	at org.h2.engine.Engine.createSession(Engine.java:166)
+	at org.h2.engine.Engine.createSession(Engine.java:29)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:340)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:173)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:152)
+	at org.h2.Driver.connect(Driver.java:69)
+	at org.h2.util.JdbcUtils.getConnection(JdbcUtils.java:309)
+	at org.h2.util.JdbcUtils.getConnection(JdbcUtils.java:289)
+	at org.h2.server.web.WebServer.getConnection(WebServer.java:785)
+	at org.h2.server.web.WebApp.login(WebApp.java:1008)
+	at org.h2.server.web.WebApp.process(WebApp.java:223)
+	at org.h2.server.web.WebApp.processRequest(WebApp.java:173)
+	at org.h2.server.web.WebServlet.doGet(WebServlet.java:129)
+	at org.h2.server.web.WebServlet.doPost(WebServlet.java:166)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.h2.jdbc.JdbcSQLInvalidAuthorizationSpecException: Wrong user name or password [28000-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:461)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	... 55 more
+2021-01-05 16:43:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 16:46:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 16:52:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-05 16:58:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-06 12:56:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-06 13:43:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-06 13:45:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PARAMETROS" already exists; SQL statement:
+CREATE TABLE parametros ( idpasta VARCHAR(255) PRIMARY KEY, nome VARCHAR(255) NOT NULL, parametros TEXT NOT NULL ) [42101-200]
+2021-01-06 13:46:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-06 13:48:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-06 13:57:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-06 14:02:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-06 14:20:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-06 16:26:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-06 17:07:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-06 17:14:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-06 17:23:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-06 17:26:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-06 17:29:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-06 17:33:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-06 17:35:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-06 17:38:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-06 17:40:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-06 17:43:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-06 17:49:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-06 18:06:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-06 18:18:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 12:51:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 14:26:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 15:29:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 15:35:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 16:02:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 17:12:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 17:17:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 17:23:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 17:27:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 17:29:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 17:30:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 17:31:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 17:32:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 17:37:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 17:40:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 17:44:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 17:46:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 17:49:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 17:51:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 17:55:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 17:57:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 18:03:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 18:08:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 18:09:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 18:12:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 18:13:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 18:15:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 18:19:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 18:22:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 18:31:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 18:33:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 18:35:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-07 18:40:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 13:01:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 14:09:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 14:14:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 14:17:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 17:21:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 17:38:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 17:38:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 17:40:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 17:45:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 17:49:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 17:53:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 17:56:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 18:00:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 18:02:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 18:09:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 18:13:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 18:18:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 18:24:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 18:30:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 18:34:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 18:36:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 18:38:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-08 18:43:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 13:05:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 13:11:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 13:13:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 13:19:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 13:29:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 13:32:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 13:40:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 13:42:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 13:47:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 14:00:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 14:15:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 14:25:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 14:27:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 14:33:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 14:35:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 14:36:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 14:40:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 14:41:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 14:44:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 14:45:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 14:46:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 14:49:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 14:50:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 14:53:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 14:54:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 15:00:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 15:03:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 15:06:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 15:13:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 15:16:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 16:14:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 16:18:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 16:20:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 16:20:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 16:22:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 16:26:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 16:33:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 16:40:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 16:44:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 16:46:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 16:49:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 16:53:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 16:54:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 16:56:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 16:57:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 17:02:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 17:08:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 17:11:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 17:12:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 17:15:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 17:17:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 17:26:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 17:36:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 17:37:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 17:41:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 17:45:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 17:48:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 17:49:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 17:52:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 17:56:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 17:59:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 18:00:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 18:04:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 18:18:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 18:19:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 18:23:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-11 18:31:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-12 12:46:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-12 13:03:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-12 13:06:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-12 13:10:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-12 13:18:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-12 14:24:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-12 14:28:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-12 14:29:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-12 14:33:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-12 14:50:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-12 14:53:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-12 14:54:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-12 15:03:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-12 15:09:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-12 15:19:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-12 16:14:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-12 16:15:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-12 16:19:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]

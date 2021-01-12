@@ -2,7 +2,6 @@ package br.com.frwk.motorregra.util;
 
 import java.io.StringWriter;
 import java.util.Iterator;
-import java.util.Map;
 
 import javax.script.ScriptContext;
 import javax.script.ScriptEngine;
@@ -14,16 +13,20 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 
+import lombok.extern.slf4j.Slf4j;
+
+@Slf4j
 public class JavascriptExecutor {
 	private ScriptEngine engine;
 	ScriptContext context;
 	StringWriter writer;
 
-	public JavascriptExecutor(JsonArray variaveis, String entrada) throws ScriptException {
+	public JavascriptExecutor(JsonArray parametros, JsonArray variaveis, String entrada) throws ScriptException {
 		this.engine = new ScriptEngineManager().getEngineByName("javascript");
 		this.context = this.engine.getContext();
 		this.writer = new StringWriter();
 		this.context.setWriter(this.writer);
+		incluirVariaveis(parametros);
 		atribuir("entrada", entrada);
 		incluirVariaveis(variaveis);
 	}
@@ -35,18 +38,19 @@ public class JavascriptExecutor {
 			if (!"entrada".equals(jsonObject.get("nome").getAsString())) {
 				String valor = "null";
 				if (jsonObject.get("valor") != null && (!jsonObject.get("valor").isJsonNull())) {
-					if ("array".equals(jsonObject.get("type").getAsString())) {
-						valor = jsonObject.get("valor").getAsString();
-					} else if ("integer".equals(jsonObject.get("type").getAsString())
+					if ("integer".equals(jsonObject.get("type").getAsString())
 							|| "boolean".equals(jsonObject.get("type").getAsString())) {
 						valor = jsonObject.get("valor").getAsString();
-					} else {
+					} else if ("saida".equals(jsonObject.get("nome").getAsString())) {
 						valor = new Gson().toJson(jsonObject.get("valor"));
+					} else {
+						valor = executarExpressao(jsonObject.get("valor").getAsString());
 					}
 				}
 				try {
-					String codigo = "var " + jsonObject.get("nome").getAsString() + " = " + valor + ";";
-					System.out.println(codigo);
+					String codigo = "var " + (jsonObject.get("id") != null ? jsonObject.get("id").getAsString()
+							: jsonObject.get("nome").getAsString()) + " = " + valor + ";";
+					log.debug(codigo);
 					engine.eval(codigo);
 				} catch (Exception e) {
 					throw new RuntimeException();
@@ -57,17 +61,18 @@ public class JavascriptExecutor {
 
 	public String executarExpressao(String expressao) throws ScriptException {
 		String codigo = "JSON.stringify(" + expressao + ")";
-		System.out.println("Expressao " + codigo);
+		log.debug(("Expressao executada " + codigo));
 		String result = ((String) engine.eval(codigo));
-		System.out.println(result);
+		log.debug(result);
 		return result;
 	}
 
-	public void atribuir(String nomeVariavel, String expressao) throws ScriptException {
-		System.out.println("Atribuindo variavel " + nomeVariavel);
+	public String atribuir(String nomeVariavel, String expressao) throws ScriptException {
 		String valorExpressao = executarExpressao(expressao);
 		engine.eval(nomeVariavel + " = " + valorExpressao + ";");
-		System.out.println("Valor " + nomeVariavel + " = " + engine.eval(nomeVariavel));
+		log.debug("Variavel: " + nomeVariavel + " = " + engine.eval(nomeVariavel));
+		String codigo = "JSON.stringify(" + nomeVariavel + ")";
+		return (String) engine.eval(codigo);
 	}
 
 }
