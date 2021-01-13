@@ -40,4 +40,8 @@ public class TrilhaEndpoints {
 	public void delete(@RequestParam Long idtrilha) {
 		trilhasService.deleteById(idtrilha);
 	}
+	@DeleteMapping("/{idregra}")
+	public void deleteAllByIdRegra(@PathVariable(value = "idregra") String idregra) {
+		trilhasService.deleteByIdRegra(idregra);
+	}
 }

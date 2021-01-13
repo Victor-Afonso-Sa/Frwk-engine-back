@@ -25,7 +25,7 @@ public class TrilhaService {
 
 	public List<Trilha> getAll() {
 		return repositoryTrilhas.findAll();
-	}
+	} 
 
 	public Optional<Trilha> getById(Long id) {
 		return repositoryTrilhas.findById(id);
@@ -33,5 +33,9 @@ public class TrilhaService {
 
 	public void deleteById(Long id) {
 		repositoryTrilhas.deleteById(id);
+	}
+	public void deleteByIdRegra(String idregra) {
+		List<Trilha> entities = getAllByIdRegra(idregra);
+		repositoryTrilhas.deleteAll(entities);
 	}
 }
