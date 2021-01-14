@@ -24313,3 +24313,12 @@ CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHA
 2021-01-13 13:54:36 jdbc[3]: exception
 org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
 CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-13 14:14:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-13 14:23:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
+2021-01-14 13:09:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRILHA" already exists; SQL statement:
+CREATE TABLE trilha ( idtrilha number PRIMARY KEY auto_increment, idregra VARCHAR(255), jsonexecucao CLOB ) [42101-200]
